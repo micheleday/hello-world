@@ -1,5 +1,4 @@
 # hello-world
-running tutorial
 
 Hi Humans!
 
